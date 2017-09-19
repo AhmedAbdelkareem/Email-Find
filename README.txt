@@ -16,6 +16,8 @@ Features:
    * Find email addresses in files so easy.
    * The program supports only .txt files to find emails in.
    * Operating system : Windows (10, 8, 7)
+   
+Download : https://sourceforge.net/projects/email-find/
 
 
 Programmed By/ Ahmed Abdelkareem <eng.a7mad93@gmail.com>
