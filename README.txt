@@ -11,5 +11,13 @@ contain the extracted email addresses.
 The program now only support .txt files to extract emails from.
 It will support more file types in future versions.
 
+Features:
+   * Find email addresses in webpages with one click
+   * Find email addresses in files so easy.
+   * The program supports only .txt files to find emails in.
+   * Operating system : Windows (10, 8, 7)
+
+
+Programmed By/ Ahmed Abdelkareem <eng.a7mad93@gmail.com>
 
 
